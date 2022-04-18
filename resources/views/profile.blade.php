@@ -9,7 +9,6 @@
 <div>
     <br>
     <br>
-  
     <a href="/profile/en">Change to english</button>
     <a href="/profile/ne">नेपालीमा परिवर्तन</button>
 
